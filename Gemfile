@@ -43,7 +43,7 @@ gem "image_processing", "~> 1.2"
 gem "rails-controller-testing"
 gem "bootstrap-sass", "3.4.1"
 gem "sassc-rails", "2.1.2"
-gem "sprockets-rails", "3.4.2"
+gem "sprockets-rails", "3.5.2"
 
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
